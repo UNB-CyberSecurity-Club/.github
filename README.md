@@ -1,33 +1,45 @@
-## UNB Cybersecurity Club
-The University of New Brunswick’s official cybersecurity club.
+<p align="center">
+  <img src="https://img.shields.io/badge/UNB-Cybersecurity%20Club-red?style=for-the-badge" alt="UNB Cybersecurity Club" />
+</p>
 
-### About
-The UNB Cybersecurity Club provides students with a collaborative and hands-on environment to develop practical cybersecurity skills. We focus on real-world learning through challenges, competitions, and team-based problem solving.
-Members regularly participate in Capture The Flag (CTF) competitions — interactive cybersecurity events where participants solve challenges to uncover hidden “flags.” These flags may be embedded in files, applications, networks, or systems, requiring skills across areas such as:
-- Web exploitation
-- Reverse engineering
-- Cryptography
-- Forensics
-- OSINT
-- Binary exploitation
+<h1 align="center">UNB Cybersecurity Club</h1>
 
-Whether you're just starting out or already experienced, the club offers a space to learn, build, and compete.
+<p align="center">
+  The University of New Brunswick’s student cybersecurity community.
+</p>
 
-### Meetings
-- **When**: Thursdays, 6:30 PM – 8:00 PM
-- **Where**: Head Hall, University of New Brunswick
-Meetings include guided practice, challenge walkthroughs, and preparation for upcoming competitions.
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF-Active-blue?style=flat-square" alt="CTF Active" />
+  <img src="https://img.shields.io/badge/Meetings-Thursday%206%3A30--8%3A00PM-success?style=flat-square" alt="Meetings Thursday 6:30-8:00PM" />
+  <img src="https://img.shields.io/badge/Location-Head%20Hall-informational?style=flat-square" alt="Location Head Hall" />
+  <img src="https://img.shields.io/badge/Skill%20Level-All%20Levels-purple?style=flat-square" alt="All Skill Levels" />
+</p>
 
-### This Repository
-This is the central organization repository for the UNB Cybersecurity Club.
+---
 
-It is used to manage and share:
-- Internal tools and scripts
-- CTF practice resources
+## Who We Are
+
+The **UNB Cybersecurity Club** is a hands-on student community focused on learning, practicing, and competing in cybersecurity.
+
+We help students build real technical skills through:
+
+- Capture The Flag (CTF) competitions
+- Weekly practice sessions
+- Team collaboration
 - Challenge writeups
-- Club infrastructure and automation
-- Documentation and playbooks
+- Security tooling and projects
+- Community learning and mentorship
 
-### Get Involved
-We welcome students of all skill levels — no prior experience required.
-If you're interested in cybersecurity, hacking challenges, or just want to learn something new, come by a meeting or get involved through our projects.
+Whether you are brand new to cybersecurity or already deep into the field, this club is a place to grow your skills and work with others who enjoy building, breaking, and learning.
+
+---
+
+## What We Do
+
+Capture The Flag (CTF) competitions are cybersecurity challenges where participants solve problems to find hidden **flags**. These challenges can involve:
+
+```text
+Web Exploitation    Reverse Engineering    Cryptography
+Forensics           OSINT                  Binary Exploitation
+Cloud Security      Scripting              Networking
+```
