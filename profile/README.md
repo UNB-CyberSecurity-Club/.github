@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CTF-Active-blue?style=flat-square" alt="CTF Active" />
-  <img src="https://img.shields.io/badge/Meetings-Thursday%206%3A30--8%3A00PM-success?style=flat-square" alt="Meetings Thursday 6:30-8:00PM" />
+  <img src="https://img.shields.io/badge/Meetings-Thursday%206%3A30--8%3A00PM-success?style=flat-square" alt="Meetings Tuesday 6:30-8:00PM" />
   <img src="https://img.shields.io/badge/Location-Head%20Hall-informational?style=flat-square" alt="Location Head Hall" />
   <img src="https://img.shields.io/badge/Skill%20Level-All%20Levels-purple?style=flat-square" alt="All Skill Levels" />
 </p>
